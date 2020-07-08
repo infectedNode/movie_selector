@@ -191,7 +191,7 @@ body {
     }
     .input .search .options {
         width: calc(100% - 40px);
-        top: 51px;
+        top: calc(100% + 1px);
         left: 50%;
         transform: translateX(-50%);
     }
